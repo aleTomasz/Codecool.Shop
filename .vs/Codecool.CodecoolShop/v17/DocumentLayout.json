@@ -1,0 +1,579 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\wiatr\\source\\repos\\codecool-shop-1-csharp-aleTomasz\\src\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3A1D177E-B0B1-4755-8E0A-84320E63D4AA}|Codecool.CodecoolShop\\Codecool.CodecoolShop.csproj|c:\\users\\wiatr\\source\\repos\\codecool-shop-1-csharp-aletomasz\\src\\codecool.codecoolshop\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3A1D177E-B0B1-4755-8E0A-84320E63D4AA}|Codecool.CodecoolShop\\Codecool.CodecoolShop.csproj|solutionrelative:codecool.codecoolshop\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A1D177E-B0B1-4755-8E0A-84320E63D4AA}|Codecool.CodecoolShop\\Codecool.CodecoolShop.csproj|c:\\users\\wiatr\\source\\repos\\codecool-shop-1-csharp-aletomasz\\src\\codecool.codecoolshop\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A1D177E-B0B1-4755-8E0A-84320E63D4AA}|Codecool.CodecoolShop\\Codecool.CodecoolShop.csproj|solutionrelative:codecool.codecoolshop\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A1D177E-B0B1-4755-8E0A-84320E63D4AA}|Codecool.CodecoolShop\\Codecool.CodecoolShop.csproj|c:\\users\\wiatr\\source\\repos\\codecool-shop-1-csharp-aletomasz\\src\\codecool.codecoolshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A1D177E-B0B1-4755-8E0A-84320E63D4AA}|Codecool.CodecoolShop\\Codecool.CodecoolShop.csproj|solutionrelative:codecool.codecoolshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A1D177E-B0B1-4755-8E0A-84320E63D4AA}|Codecool.CodecoolShop\\Codecool.CodecoolShop.csproj|c:\\users\\wiatr\\source\\repos\\codecool-shop-1-csharp-aletomasz\\src\\codecool.codecoolshop\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3A1D177E-B0B1-4755-8E0A-84320E63D4AA}|Codecool.CodecoolShop\\Codecool.CodecoolShop.csproj|solutionrelative:codecool.codecoolshop\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A1D177E-B0B1-4755-8E0A-84320E63D4AA}|Codecool.CodecoolShop\\Codecool.CodecoolShop.csproj|c:\\users\\wiatr\\source\\repos\\codecool-shop-1-csharp-aletomasz\\src\\codecool.codecoolshop\\views\\product\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3A1D177E-B0B1-4755-8E0A-84320E63D4AA}|Codecool.CodecoolShop\\Codecool.CodecoolShop.csproj|solutionrelative:codecool.codecoolshop\\views\\product\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A1D177E-B0B1-4755-8E0A-84320E63D4AA}|Codecool.CodecoolShop\\Codecool.CodecoolShop.csproj|c:\\users\\wiatr\\source\\repos\\codecool-shop-1-csharp-aletomasz\\src\\codecool.codecoolshop\\utilities\\sessionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A1D177E-B0B1-4755-8E0A-84320E63D4AA}|Codecool.CodecoolShop\\Codecool.CodecoolShop.csproj|solutionrelative:codecool.codecoolshop\\utilities\\sessionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A1D177E-B0B1-4755-8E0A-84320E63D4AA}|Codecool.CodecoolShop\\Codecool.CodecoolShop.csproj|c:\\users\\wiatr\\source\\repos\\codecool-shop-1-csharp-aletomasz\\src\\codecool.codecoolshop\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A1D177E-B0B1-4755-8E0A-84320E63D4AA}|Codecool.CodecoolShop\\Codecool.CodecoolShop.csproj|solutionrelative:codecool.codecoolshop\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A1D177E-B0B1-4755-8E0A-84320E63D4AA}|Codecool.CodecoolShop\\Codecool.CodecoolShop.csproj|c:\\users\\wiatr\\source\\repos\\codecool-shop-1-csharp-aletomasz\\src\\codecool.codecoolshop\\models\\productcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A1D177E-B0B1-4755-8E0A-84320E63D4AA}|Codecool.CodecoolShop\\Codecool.CodecoolShop.csproj|solutionrelative:codecool.codecoolshop\\models\\productcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A1D177E-B0B1-4755-8E0A-84320E63D4AA}|Codecool.CodecoolShop\\Codecool.CodecoolShop.csproj|c:\\users\\wiatr\\source\\repos\\codecool-shop-1-csharp-aletomasz\\src\\codecool.codecoolshop\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A1D177E-B0B1-4755-8E0A-84320E63D4AA}|Codecool.CodecoolShop\\Codecool.CodecoolShop.csproj|solutionrelative:codecool.codecoolshop\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A1D177E-B0B1-4755-8E0A-84320E63D4AA}|Codecool.CodecoolShop\\Codecool.CodecoolShop.csproj|c:\\users\\wiatr\\source\\repos\\codecool-shop-1-csharp-aletomasz\\src\\codecool.codecoolshop\\models\\listitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A1D177E-B0B1-4755-8E0A-84320E63D4AA}|Codecool.CodecoolShop\\Codecool.CodecoolShop.csproj|solutionrelative:codecool.codecoolshop\\models\\listitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A1D177E-B0B1-4755-8E0A-84320E63D4AA}|Codecool.CodecoolShop\\Codecool.CodecoolShop.csproj|c:\\users\\wiatr\\source\\repos\\codecool-shop-1-csharp-aletomasz\\src\\codecool.codecoolshop\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A1D177E-B0B1-4755-8E0A-84320E63D4AA}|Codecool.CodecoolShop\\Codecool.CodecoolShop.csproj|solutionrelative:codecool.codecoolshop\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A1D177E-B0B1-4755-8E0A-84320E63D4AA}|Codecool.CodecoolShop\\Codecool.CodecoolShop.csproj|c:\\users\\wiatr\\source\\repos\\codecool-shop-1-csharp-aletomasz\\src\\codecool.codecoolshop\\models\\checkoutformmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A1D177E-B0B1-4755-8E0A-84320E63D4AA}|Codecool.CodecoolShop\\Codecool.CodecoolShop.csproj|solutionrelative:codecool.codecoolshop\\models\\checkoutformmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A1D177E-B0B1-4755-8E0A-84320E63D4AA}|Codecool.CodecoolShop\\Codecool.CodecoolShop.csproj|c:\\users\\wiatr\\source\\repos\\codecool-shop-1-csharp-aletomasz\\src\\codecool.codecoolshop\\models\\basemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A1D177E-B0B1-4755-8E0A-84320E63D4AA}|Codecool.CodecoolShop\\Codecool.CodecoolShop.csproj|solutionrelative:codecool.codecoolshop\\models\\basemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A1D177E-B0B1-4755-8E0A-84320E63D4AA}|Codecool.CodecoolShop\\Codecool.CodecoolShop.csproj|c:\\users\\wiatr\\source\\repos\\codecool-shop-1-csharp-aletomasz\\src\\codecool.codecoolshop\\daos\\isupplierdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A1D177E-B0B1-4755-8E0A-84320E63D4AA}|Codecool.CodecoolShop\\Codecool.CodecoolShop.csproj|solutionrelative:codecool.codecoolshop\\daos\\isupplierdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A1D177E-B0B1-4755-8E0A-84320E63D4AA}|Codecool.CodecoolShop\\Codecool.CodecoolShop.csproj|c:\\users\\wiatr\\source\\repos\\codecool-shop-1-csharp-aletomasz\\src\\codecool.codecoolshop\\daos\\iproductdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A1D177E-B0B1-4755-8E0A-84320E63D4AA}|Codecool.CodecoolShop\\Codecool.CodecoolShop.csproj|solutionrelative:codecool.codecoolshop\\daos\\iproductdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A1D177E-B0B1-4755-8E0A-84320E63D4AA}|Codecool.CodecoolShop\\Codecool.CodecoolShop.csproj|c:\\users\\wiatr\\source\\repos\\codecool-shop-1-csharp-aletomasz\\src\\codecool.codecoolshop\\daos\\iproductcategorydao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A1D177E-B0B1-4755-8E0A-84320E63D4AA}|Codecool.CodecoolShop\\Codecool.CodecoolShop.csproj|solutionrelative:codecool.codecoolshop\\daos\\iproductcategorydao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A1D177E-B0B1-4755-8E0A-84320E63D4AA}|Codecool.CodecoolShop\\Codecool.CodecoolShop.csproj|c:\\users\\wiatr\\source\\repos\\codecool-shop-1-csharp-aletomasz\\src\\codecool.codecoolshop\\daos\\idao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A1D177E-B0B1-4755-8E0A-84320E63D4AA}|Codecool.CodecoolShop\\Codecool.CodecoolShop.csproj|solutionrelative:codecool.codecoolshop\\daos\\idao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A1D177E-B0B1-4755-8E0A-84320E63D4AA}|Codecool.CodecoolShop\\Codecool.CodecoolShop.csproj|c:\\users\\wiatr\\source\\repos\\codecool-shop-1-csharp-aletomasz\\src\\codecool.codecoolshop\\daos\\implementations\\supplierdaomemory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A1D177E-B0B1-4755-8E0A-84320E63D4AA}|Codecool.CodecoolShop\\Codecool.CodecoolShop.csproj|solutionrelative:codecool.codecoolshop\\daos\\implementations\\supplierdaomemory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A1D177E-B0B1-4755-8E0A-84320E63D4AA}|Codecool.CodecoolShop\\Codecool.CodecoolShop.csproj|c:\\users\\wiatr\\source\\repos\\codecool-shop-1-csharp-aletomasz\\src\\codecool.codecoolshop\\daos\\implementations\\productdaomemory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A1D177E-B0B1-4755-8E0A-84320E63D4AA}|Codecool.CodecoolShop\\Codecool.CodecoolShop.csproj|solutionrelative:codecool.codecoolshop\\daos\\implementations\\productdaomemory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A1D177E-B0B1-4755-8E0A-84320E63D4AA}|Codecool.CodecoolShop\\Codecool.CodecoolShop.csproj|c:\\users\\wiatr\\source\\repos\\codecool-shop-1-csharp-aletomasz\\src\\codecool.codecoolshop\\daos\\implementations\\productcategorydaomemory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A1D177E-B0B1-4755-8E0A-84320E63D4AA}|Codecool.CodecoolShop\\Codecool.CodecoolShop.csproj|solutionrelative:codecool.codecoolshop\\daos\\implementations\\productcategorydaomemory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A1D177E-B0B1-4755-8E0A-84320E63D4AA}|Codecool.CodecoolShop\\Codecool.CodecoolShop.csproj|c:\\users\\wiatr\\source\\repos\\codecool-shop-1-csharp-aletomasz\\src\\codecool.codecoolshop\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A1D177E-B0B1-4755-8E0A-84320E63D4AA}|Codecool.CodecoolShop\\Codecool.CodecoolShop.csproj|solutionrelative:codecool.codecoolshop\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A1D177E-B0B1-4755-8E0A-84320E63D4AA}|Codecool.CodecoolShop\\Codecool.CodecoolShop.csproj|c:\\users\\wiatr\\source\\repos\\codecool-shop-1-csharp-aletomasz\\src\\codecool.codecoolshop\\views\\product\\paymentconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3A1D177E-B0B1-4755-8E0A-84320E63D4AA}|Codecool.CodecoolShop\\Codecool.CodecoolShop.csproj|solutionrelative:codecool.codecoolshop\\views\\product\\paymentconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A1D177E-B0B1-4755-8E0A-84320E63D4AA}|Codecool.CodecoolShop\\Codecool.CodecoolShop.csproj|c:\\users\\wiatr\\source\\repos\\codecool-shop-1-csharp-aletomasz\\src\\codecool.codecoolshop\\views\\product\\payment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3A1D177E-B0B1-4755-8E0A-84320E63D4AA}|Codecool.CodecoolShop\\Codecool.CodecoolShop.csproj|solutionrelative:codecool.codecoolshop\\views\\product\\payment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A1D177E-B0B1-4755-8E0A-84320E63D4AA}|Codecool.CodecoolShop\\Codecool.CodecoolShop.csproj|c:\\users\\wiatr\\source\\repos\\codecool-shop-1-csharp-aletomasz\\src\\codecool.codecoolshop\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A1D177E-B0B1-4755-8E0A-84320E63D4AA}|Codecool.CodecoolShop\\Codecool.CodecoolShop.csproj|solutionrelative:codecool.codecoolshop\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A1D177E-B0B1-4755-8E0A-84320E63D4AA}|Codecool.CodecoolShop\\Codecool.CodecoolShop.csproj|c:\\users\\wiatr\\source\\repos\\codecool-shop-1-csharp-aletomasz\\src\\codecool.codecoolshop\\views\\product\\viewcart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3A1D177E-B0B1-4755-8E0A-84320E63D4AA}|Codecool.CodecoolShop\\Codecool.CodecoolShop.csproj|solutionrelative:codecool.codecoolshop\\views\\product\\viewcart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A1D177E-B0B1-4755-8E0A-84320E63D4AA}|Codecool.CodecoolShop\\Codecool.CodecoolShop.csproj|c:\\users\\wiatr\\source\\repos\\codecool-shop-1-csharp-aletomasz\\src\\codecool.codecoolshop\\models\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A1D177E-B0B1-4755-8E0A-84320E63D4AA}|Codecool.CodecoolShop\\Codecool.CodecoolShop.csproj|solutionrelative:codecool.codecoolshop\\models\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A1D177E-B0B1-4755-8E0A-84320E63D4AA}|Codecool.CodecoolShop\\Codecool.CodecoolShop.csproj|c:\\users\\wiatr\\source\\repos\\codecool-shop-1-csharp-aletomasz\\src\\codecool.codecoolshop\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3A1D177E-B0B1-4755-8E0A-84320E63D4AA}|Codecool.CodecoolShop\\Codecool.CodecoolShop.csproj|solutionrelative:codecool.codecoolshop\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A1D177E-B0B1-4755-8E0A-84320E63D4AA}|Codecool.CodecoolShop\\Codecool.CodecoolShop.csproj|c:\\users\\wiatr\\source\\repos\\codecool-shop-1-csharp-aletomasz\\src\\codecool.codecoolshop\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3A1D177E-B0B1-4755-8E0A-84320E63D4AA}|Codecool.CodecoolShop\\Codecool.CodecoolShop.csproj|solutionrelative:codecool.codecoolshop\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A1D177E-B0B1-4755-8E0A-84320E63D4AA}|Codecool.CodecoolShop\\Codecool.CodecoolShop.csproj|c:\\users\\wiatr\\source\\repos\\codecool-shop-1-csharp-aletomasz\\src\\codecool.codecoolshop\\views\\product\\productsbysupplier.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3A1D177E-B0B1-4755-8E0A-84320E63D4AA}|Codecool.CodecoolShop\\Codecool.CodecoolShop.csproj|solutionrelative:codecool.codecoolshop\\views\\product\\productsbysupplier.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A1D177E-B0B1-4755-8E0A-84320E63D4AA}|Codecool.CodecoolShop\\Codecool.CodecoolShop.csproj|c:\\users\\wiatr\\source\\repos\\codecool-shop-1-csharp-aletomasz\\src\\codecool.codecoolshop\\views\\product\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3A1D177E-B0B1-4755-8E0A-84320E63D4AA}|Codecool.CodecoolShop\\Codecool.CodecoolShop.csproj|solutionrelative:codecool.codecoolshop\\views\\product\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A1D177E-B0B1-4755-8E0A-84320E63D4AA}|Codecool.CodecoolShop\\Codecool.CodecoolShop.csproj|c:\\users\\wiatr\\source\\repos\\codecool-shop-1-csharp-aletomasz\\src\\codecool.codecoolshop\\codecool.codecoolshop.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3A1D177E-B0B1-4755-8E0A-84320E63D4AA}|Codecool.CodecoolShop\\Codecool.CodecoolShop.csproj|solutionrelative:codecool.codecoolshop\\codecool.codecoolshop.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A1D177E-B0B1-4755-8E0A-84320E63D4AA}|Codecool.CodecoolShop\\Codecool.CodecoolShop.csproj|c:\\users\\wiatr\\source\\repos\\codecool-shop-1-csharp-aletomasz\\src\\codecool.codecoolshop\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3A1D177E-B0B1-4755-8E0A-84320E63D4AA}|Codecool.CodecoolShop\\Codecool.CodecoolShop.csproj|solutionrelative:codecool.codecoolshop\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\wiatr\\source\\repos\\codecool-shop-1-csharp-aleTomasz\\src\\Codecool.CodecoolShop\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "Codecool.CodecoolShop\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\wiatr\\source\\repos\\codecool-shop-1-csharp-aleTomasz\\src\\Codecool.CodecoolShop\\Models\\Order.cs",
+              "RelativeToolTip": "Codecool.CodecoolShop\\Models\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T13:24:50.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductCategory.cs",
+              "DocumentMoniker": "C:\\Users\\wiatr\\source\\repos\\codecool-shop-1-csharp-aleTomasz\\src\\Codecool.CodecoolShop\\Models\\ProductCategory.cs",
+              "RelativeDocumentMoniker": "Codecool.CodecoolShop\\Models\\ProductCategory.cs",
+              "ToolTip": "C:\\Users\\wiatr\\source\\repos\\codecool-shop-1-csharp-aleTomasz\\src\\Codecool.CodecoolShop\\Models\\ProductCategory.cs",
+              "RelativeToolTip": "Codecool.CodecoolShop\\Models\\ProductCategory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T12:49:29.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\wiatr\\source\\repos\\codecool-shop-1-csharp-aleTomasz\\src\\Codecool.CodecoolShop\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "Codecool.CodecoolShop\\Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\wiatr\\source\\repos\\codecool-shop-1-csharp-aleTomasz\\src\\Codecool.CodecoolShop\\Services\\ProductService.cs",
+              "RelativeToolTip": "Codecool.CodecoolShop\\Services\\ProductService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T19:43:23.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SessionExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\wiatr\\source\\repos\\codecool-shop-1-csharp-aleTomasz\\src\\Codecool.CodecoolShop\\Utilities\\SessionExtensions.cs",
+              "RelativeDocumentMoniker": "Codecool.CodecoolShop\\Utilities\\SessionExtensions.cs",
+              "ToolTip": "C:\\Users\\wiatr\\source\\repos\\codecool-shop-1-csharp-aleTomasz\\src\\Codecool.CodecoolShop\\Utilities\\SessionExtensions.cs",
+              "RelativeToolTip": "Codecool.CodecoolShop\\Utilities\\SessionExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T21:31:07.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Checkout.cshtml",
+              "DocumentMoniker": "C:\\Users\\wiatr\\source\\repos\\codecool-shop-1-csharp-aleTomasz\\src\\Codecool.CodecoolShop\\Views\\Product\\Checkout.cshtml",
+              "RelativeDocumentMoniker": "Codecool.CodecoolShop\\Views\\Product\\Checkout.cshtml",
+              "ToolTip": "C:\\Users\\wiatr\\source\\repos\\codecool-shop-1-csharp-aleTomasz\\src\\Codecool.CodecoolShop\\Views\\Product\\Checkout.cshtml",
+              "RelativeToolTip": "Codecool.CodecoolShop\\Views\\Product\\Checkout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-16T20:05:33.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\wiatr\\source\\repos\\codecool-shop-1-csharp-aleTomasz\\src\\Codecool.CodecoolShop\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "Codecool.CodecoolShop\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\wiatr\\source\\repos\\codecool-shop-1-csharp-aleTomasz\\src\\Codecool.CodecoolShop\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "Codecool.CodecoolShop\\Views\\Product\\Index.cshtml",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAcwFcAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-08T11:51:23.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\wiatr\\source\\repos\\codecool-shop-1-csharp-aleTomasz\\src\\Codecool.CodecoolShop\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Codecool.CodecoolShop\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\wiatr\\source\\repos\\codecool-shop-1-csharp-aleTomasz\\src\\Codecool.CodecoolShop\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Codecool.CodecoolShop\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB4AAACHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-12T21:46:39.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\wiatr\\source\\repos\\codecool-shop-1-csharp-aleTomasz\\src\\Codecool.CodecoolShop\\Startup.cs",
+              "RelativeDocumentMoniker": "Codecool.CodecoolShop\\Startup.cs",
+              "ToolTip": "C:\\Users\\wiatr\\source\\repos\\codecool-shop-1-csharp-aleTomasz\\src\\Codecool.CodecoolShop\\Startup.cs",
+              "RelativeToolTip": "Codecool.CodecoolShop\\Startup.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwGQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T19:42:40.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\wiatr\\source\\repos\\codecool-shop-1-csharp-aleTomasz\\src\\Codecool.CodecoolShop\\Program.cs",
+              "RelativeDocumentMoniker": "Codecool.CodecoolShop\\Program.cs",
+              "ToolTip": "C:\\Users\\wiatr\\source\\repos\\codecool-shop-1-csharp-aleTomasz\\src\\Codecool.CodecoolShop\\Program.cs",
+              "RelativeToolTip": "Codecool.CodecoolShop\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T19:39:24.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ListItems.cs",
+              "DocumentMoniker": "C:\\Users\\wiatr\\source\\repos\\codecool-shop-1-csharp-aleTomasz\\src\\Codecool.CodecoolShop\\Models\\ListItems.cs",
+              "RelativeDocumentMoniker": "Codecool.CodecoolShop\\Models\\ListItems.cs",
+              "ToolTip": "C:\\Users\\wiatr\\source\\repos\\codecool-shop-1-csharp-aleTomasz\\src\\Codecool.CodecoolShop\\Models\\ListItems.cs",
+              "RelativeToolTip": "Codecool.CodecoolShop\\Models\\ListItems.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T13:29:48.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\wiatr\\source\\repos\\codecool-shop-1-csharp-aleTomasz\\src\\Codecool.CodecoolShop\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Codecool.CodecoolShop\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\wiatr\\source\\repos\\codecool-shop-1-csharp-aleTomasz\\src\\Codecool.CodecoolShop\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Codecool.CodecoolShop\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T19:44:03.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CheckoutFormModel.cs",
+              "DocumentMoniker": "C:\\Users\\wiatr\\source\\repos\\codecool-shop-1-csharp-aleTomasz\\src\\Codecool.CodecoolShop\\Models\\CheckoutFormModel.cs",
+              "RelativeDocumentMoniker": "Codecool.CodecoolShop\\Models\\CheckoutFormModel.cs",
+              "ToolTip": "C:\\Users\\wiatr\\source\\repos\\codecool-shop-1-csharp-aleTomasz\\src\\Codecool.CodecoolShop\\Models\\CheckoutFormModel.cs",
+              "RelativeToolTip": "Codecool.CodecoolShop\\Models\\CheckoutFormModel.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwA0AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T20:11:27.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BaseModel.cs",
+              "DocumentMoniker": "C:\\Users\\wiatr\\source\\repos\\codecool-shop-1-csharp-aleTomasz\\src\\Codecool.CodecoolShop\\Models\\BaseModel.cs",
+              "RelativeDocumentMoniker": "Codecool.CodecoolShop\\Models\\BaseModel.cs",
+              "ToolTip": "C:\\Users\\wiatr\\source\\repos\\codecool-shop-1-csharp-aleTomasz\\src\\Codecool.CodecoolShop\\Models\\BaseModel.cs",
+              "RelativeToolTip": "Codecool.CodecoolShop\\Models\\BaseModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T19:44:06.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ISupplierDao.cs",
+              "DocumentMoniker": "C:\\Users\\wiatr\\source\\repos\\codecool-shop-1-csharp-aleTomasz\\src\\Codecool.CodecoolShop\\Daos\\ISupplierDao.cs",
+              "RelativeDocumentMoniker": "Codecool.CodecoolShop\\Daos\\ISupplierDao.cs",
+              "ToolTip": "C:\\Users\\wiatr\\source\\repos\\codecool-shop-1-csharp-aleTomasz\\src\\Codecool.CodecoolShop\\Daos\\ISupplierDao.cs",
+              "RelativeToolTip": "Codecool.CodecoolShop\\Daos\\ISupplierDao.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T19:44:08.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IProductDao.cs",
+              "DocumentMoniker": "C:\\Users\\wiatr\\source\\repos\\codecool-shop-1-csharp-aleTomasz\\src\\Codecool.CodecoolShop\\Daos\\IProductDao.cs",
+              "RelativeDocumentMoniker": "Codecool.CodecoolShop\\Daos\\IProductDao.cs",
+              "ToolTip": "C:\\Users\\wiatr\\source\\repos\\codecool-shop-1-csharp-aleTomasz\\src\\Codecool.CodecoolShop\\Daos\\IProductDao.cs",
+              "RelativeToolTip": "Codecool.CodecoolShop\\Daos\\IProductDao.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T19:44:10.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IProductCategoryDao.cs",
+              "DocumentMoniker": "C:\\Users\\wiatr\\source\\repos\\codecool-shop-1-csharp-aleTomasz\\src\\Codecool.CodecoolShop\\Daos\\IProductCategoryDao.cs",
+              "RelativeDocumentMoniker": "Codecool.CodecoolShop\\Daos\\IProductCategoryDao.cs",
+              "ToolTip": "C:\\Users\\wiatr\\source\\repos\\codecool-shop-1-csharp-aleTomasz\\src\\Codecool.CodecoolShop\\Daos\\IProductCategoryDao.cs",
+              "RelativeToolTip": "Codecool.CodecoolShop\\Daos\\IProductCategoryDao.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T19:44:16.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IDao.cs",
+              "DocumentMoniker": "C:\\Users\\wiatr\\source\\repos\\codecool-shop-1-csharp-aleTomasz\\src\\Codecool.CodecoolShop\\Daos\\IDao.cs",
+              "RelativeDocumentMoniker": "Codecool.CodecoolShop\\Daos\\IDao.cs",
+              "ToolTip": "C:\\Users\\wiatr\\source\\repos\\codecool-shop-1-csharp-aleTomasz\\src\\Codecool.CodecoolShop\\Daos\\IDao.cs",
+              "RelativeToolTip": "Codecool.CodecoolShop\\Daos\\IDao.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T19:44:18.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SupplierDaoMemory.cs",
+              "DocumentMoniker": "C:\\Users\\wiatr\\source\\repos\\codecool-shop-1-csharp-aleTomasz\\src\\Codecool.CodecoolShop\\Daos\\Implementations\\SupplierDaoMemory.cs",
+              "RelativeDocumentMoniker": "Codecool.CodecoolShop\\Daos\\Implementations\\SupplierDaoMemory.cs",
+              "ToolTip": "C:\\Users\\wiatr\\source\\repos\\codecool-shop-1-csharp-aleTomasz\\src\\Codecool.CodecoolShop\\Daos\\Implementations\\SupplierDaoMemory.cs",
+              "RelativeToolTip": "Codecool.CodecoolShop\\Daos\\Implementations\\SupplierDaoMemory.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAADwvyMAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T11:51:12.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ProductDaoMemory.cs",
+              "DocumentMoniker": "C:\\Users\\wiatr\\source\\repos\\codecool-shop-1-csharp-aleTomasz\\src\\Codecool.CodecoolShop\\Daos\\Implementations\\ProductDaoMemory.cs",
+              "RelativeDocumentMoniker": "Codecool.CodecoolShop\\Daos\\Implementations\\ProductDaoMemory.cs",
+              "ToolTip": "C:\\Users\\wiatr\\source\\repos\\codecool-shop-1-csharp-aleTomasz\\src\\Codecool.CodecoolShop\\Daos\\Implementations\\ProductDaoMemory.cs",
+              "RelativeToolTip": "Codecool.CodecoolShop\\Daos\\Implementations\\ProductDaoMemory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADUAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T11:51:11.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ProductCategoryDaoMemory.cs",
+              "DocumentMoniker": "C:\\Users\\wiatr\\source\\repos\\codecool-shop-1-csharp-aleTomasz\\src\\Codecool.CodecoolShop\\Daos\\Implementations\\ProductCategoryDaoMemory.cs",
+              "RelativeDocumentMoniker": "Codecool.CodecoolShop\\Daos\\Implementations\\ProductCategoryDaoMemory.cs",
+              "ToolTip": "C:\\Users\\wiatr\\source\\repos\\codecool-shop-1-csharp-aleTomasz\\src\\Codecool.CodecoolShop\\Daos\\Implementations\\ProductCategoryDaoMemory.cs",
+              "RelativeToolTip": "Codecool.CodecoolShop\\Daos\\Implementations\\ProductCategoryDaoMemory.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T11:51:09.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\wiatr\\source\\repos\\codecool-shop-1-csharp-aleTomasz\\src\\Codecool.CodecoolShop\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Codecool.CodecoolShop\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\wiatr\\source\\repos\\codecool-shop-1-csharp-aleTomasz\\src\\Codecool.CodecoolShop\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Codecool.CodecoolShop\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAOAAAAAAAAAAAAAswAwBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T11:33:14.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Payment.cshtml",
+              "DocumentMoniker": "C:\\Users\\wiatr\\source\\repos\\codecool-shop-1-csharp-aleTomasz\\src\\Codecool.CodecoolShop\\Views\\Product\\Payment.cshtml",
+              "RelativeDocumentMoniker": "Codecool.CodecoolShop\\Views\\Product\\Payment.cshtml",
+              "ToolTip": "C:\\Users\\wiatr\\source\\repos\\codecool-shop-1-csharp-aleTomasz\\src\\Codecool.CodecoolShop\\Views\\Product\\Payment.cshtml",
+              "RelativeToolTip": "Codecool.CodecoolShop\\Views\\Product\\Payment.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-16T20:26:42.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "PaymentConfirmation.cshtml",
+              "DocumentMoniker": "C:\\Users\\wiatr\\source\\repos\\codecool-shop-1-csharp-aleTomasz\\src\\Codecool.CodecoolShop\\Views\\Product\\PaymentConfirmation.cshtml",
+              "RelativeDocumentMoniker": "Codecool.CodecoolShop\\Views\\Product\\PaymentConfirmation.cshtml",
+              "ToolTip": "C:\\Users\\wiatr\\source\\repos\\codecool-shop-1-csharp-aleTomasz\\src\\Codecool.CodecoolShop\\Views\\Product\\PaymentConfirmation.cshtml",
+              "RelativeToolTip": "Codecool.CodecoolShop\\Views\\Product\\PaymentConfirmation.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-17T20:46:24.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ViewCart.cshtml",
+              "DocumentMoniker": "C:\\Users\\wiatr\\source\\repos\\codecool-shop-1-csharp-aleTomasz\\src\\Codecool.CodecoolShop\\Views\\Product\\ViewCart.cshtml",
+              "RelativeDocumentMoniker": "Codecool.CodecoolShop\\Views\\Product\\ViewCart.cshtml",
+              "ToolTip": "C:\\Users\\wiatr\\source\\repos\\codecool-shop-1-csharp-aleTomasz\\src\\Codecool.CodecoolShop\\Views\\Product\\ViewCart.cshtml",
+              "RelativeToolTip": "Codecool.CodecoolShop\\Views\\Product\\ViewCart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-12T21:08:16.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\wiatr\\source\\repos\\codecool-shop-1-csharp-aleTomasz\\src\\Codecool.CodecoolShop\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Codecool.CodecoolShop\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\wiatr\\source\\repos\\codecool-shop-1-csharp-aleTomasz\\src\\Codecool.CodecoolShop\\Models\\Product.cs",
+              "RelativeToolTip": "Codecool.CodecoolShop\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T19:43:41.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Supplier.cs",
+              "DocumentMoniker": "C:\\Users\\wiatr\\source\\repos\\codecool-shop-1-csharp-aleTomasz\\src\\Codecool.CodecoolShop\\Models\\Supplier.cs",
+              "RelativeDocumentMoniker": "Codecool.CodecoolShop\\Models\\Supplier.cs",
+              "ToolTip": "C:\\Users\\wiatr\\source\\repos\\codecool-shop-1-csharp-aleTomasz\\src\\Codecool.CodecoolShop\\Models\\Supplier.cs",
+              "RelativeToolTip": "Codecool.CodecoolShop\\Models\\Supplier.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T19:43:32.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\wiatr\\source\\repos\\codecool-shop-1-csharp-aleTomasz\\src\\Codecool.CodecoolShop\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Codecool.CodecoolShop\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\wiatr\\source\\repos\\codecool-shop-1-csharp-aleTomasz\\src\\Codecool.CodecoolShop\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Codecool.CodecoolShop\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-09T19:42:24.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\wiatr\\source\\repos\\codecool-shop-1-csharp-aleTomasz\\src\\Codecool.CodecoolShop\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Codecool.CodecoolShop\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\wiatr\\source\\repos\\codecool-shop-1-csharp-aleTomasz\\src\\Codecool.CodecoolShop\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Codecool.CodecoolShop\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-09T19:42:18.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ProductsBySupplier.cshtml",
+              "DocumentMoniker": "C:\\Users\\wiatr\\source\\repos\\codecool-shop-1-csharp-aleTomasz\\src\\Codecool.CodecoolShop\\Views\\Product\\ProductsBySupplier.cshtml",
+              "RelativeDocumentMoniker": "Codecool.CodecoolShop\\Views\\Product\\ProductsBySupplier.cshtml",
+              "ToolTip": "C:\\Users\\wiatr\\source\\repos\\codecool-shop-1-csharp-aleTomasz\\src\\Codecool.CodecoolShop\\Views\\Product\\ProductsBySupplier.cshtml",
+              "RelativeToolTip": "Codecool.CodecoolShop\\Views\\Product\\ProductsBySupplier.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAADcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-11T19:56:47.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\wiatr\\source\\repos\\codecool-shop-1-csharp-aleTomasz\\src\\Codecool.CodecoolShop\\Views\\Product\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Codecool.CodecoolShop\\Views\\Product\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\wiatr\\source\\repos\\codecool-shop-1-csharp-aleTomasz\\src\\Codecool.CodecoolShop\\Views\\Product\\Privacy.cshtml",
+              "RelativeToolTip": "Codecool.CodecoolShop\\Views\\Product\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-08T11:51:24.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Codecool.CodecoolShop.csproj",
+              "DocumentMoniker": "C:\\Users\\wiatr\\source\\repos\\codecool-shop-1-csharp-aleTomasz\\src\\Codecool.CodecoolShop\\Codecool.CodecoolShop.csproj",
+              "RelativeDocumentMoniker": "Codecool.CodecoolShop\\Codecool.CodecoolShop.csproj",
+              "ToolTip": "C:\\Users\\wiatr\\source\\repos\\codecool-shop-1-csharp-aleTomasz\\src\\Codecool.CodecoolShop\\Codecool.CodecoolShop.csproj",
+              "RelativeToolTip": "Codecool.CodecoolShop\\Codecool.CodecoolShop.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-08T11:09:37.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\wiatr\\source\\repos\\codecool-shop-1-csharp-aleTomasz\\src\\Codecool.CodecoolShop\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Codecool.CodecoolShop\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\wiatr\\source\\repos\\codecool-shop-1-csharp-aleTomasz\\src\\Codecool.CodecoolShop\\appsettings.Development.json",
+              "RelativeToolTip": "Codecool.CodecoolShop\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-09T19:42:30.1Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1170,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

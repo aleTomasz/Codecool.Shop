@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Codecool.CodecoolShop.props" />
+</Project>

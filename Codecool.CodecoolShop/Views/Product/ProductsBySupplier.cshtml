@@ -1,0 +1,55 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    ViewData["Title"] = "Products by Supplier";
+    var suppliers = ViewBag.Suppliers as IEnumerable<Codecool.CodecoolShop.Models.Supplier>;
+}
+
+@model List<Codecool.CodecoolShop.Models.Product>
+
+<div class="container">
+    <div class="row">
+        <!-- Kolumna dostawców -->
+        <div class="col-lg-3">
+            <p>SUPPLIER:</p>
+            <ul class="list-group">
+                @foreach (var supplier in suppliers)
+                {
+                    <li class="list-group-item">
+                        <a href="/Product/ProductsBySupplier?supplierId=@supplier.Id">@supplier.Name</a>
+                    </li>
+                }
+            </ul>
+        </div>
+
+        <!-- Kolumna produktów -->
+        <div class="col-lg-9">
+
+            <div class="row">
+                @foreach (var element in Model)
+                {
+                    <div class="col-lg-4" style="display: inline-block; max-width: 350px; height: auto">
+                        <div class="card">
+                            <img src="~/img/@(element.Name).jpg" alt="@element.Name" style="height: 50%; width: 50%; align-self: center; padding-top: 10px">
+
+                            <div class="card-body">
+                                <h5 class="card-title text-center">
+                                    Product @{
+                                        var num = Model.IndexOf(element) + 1;
+                                    } @num
+                                </h5>
+                                <h5 class="card-title">@element.Name</h5>
+                                <p class="card-text">@element.Description</p>
+                                <p class="card-text">Category: @element.ProductCategory.Department</p>
+                                <p class="card-text">Supplier: @element.Supplier.Name</p>
+                                <p class="card-text text-center"><strong>Price: @element.DefaultPrice.ToString("C2")</strong></p>
+                                <a href="/Product/AddToCart?productId=@element.Id" type="button" class="btn btn-primary">Add To Cart</a>
+                            </div>
+                        </div>
+                    </div>
+                }
+            </div>
+        </div>
+    </div>
+</div>

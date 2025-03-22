@@ -1,0 +1,42 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+
+@model Codecool.CodecoolShop.Models.Order
+
+<h2>Payment Page</h2>
+
+
+
+@if (Model != null)
+{
+    <p>Total Price: @Model.TotalPrice.ToString("C2")</p>
+
+    <form asp-action="ProcessPayment" method="post">
+        <div class="form-group">
+            <label for="CardNumber">Card Number</label>
+            <input type="text" class="form-control" id="CardNumber" name="CardNumber" placeholder="1234 5678 9012 3456" required />
+        </div>
+
+        <div class="form-group">
+            <label for="CardHolderName">Card Holder Name</label>
+            <input type="text" class="form-control" id="CardHolderName" name="CardHolderName" placeholder="Luke Skywaker" required />
+        </div>
+
+        <div class="form-group">
+            <label for="ExpiryDate">Expiry Date</label>
+            <input type="text" class="form-control" id="ExpiryDate" name="ExpiryDate" placeholder="MM/YY" required />
+        </div>
+
+        <div class="form-group">
+            <label for="CVV">CVV</label>
+            <input type="text" class="form-control" id="CVV" name="CVV" placeholder="123" required />
+        </div>
+
+        <button type="submit" class="btn btn-primary">Complete Payment</button>
+    </form>
+}
+else
+{
+    <p>Order not found. Please check your cart.</p>
+}

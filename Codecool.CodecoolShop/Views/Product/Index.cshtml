@@ -1,0 +1,116 @@
+@{
+    ViewData["Title"] = "Home Page";
+    var categories = ViewBag.Categories as IEnumerable<Codecool.CodecoolShop.Models.ProductCategory>;
+}
+
+@model List<Codecool.CodecoolShop.Models.Product>
+
+@if (TempData["SuccessMessage"] != null)
+{
+    <div class="alert alert-success text-center" id="success-message" @* style="position: fixed; top: 50%; left: 50%; transform: translate(-50%, -50%); z-index: 9999; width: 300px;" *@>
+        @TempData["SuccessMessage"]
+    </div>
+}
+
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script>
+    // Funkcja jQuery, która ukrywa komunikat po x sekundach (xxxx milisekund)
+    $(document).ready(function () {
+        setTimeout(function () {
+            $('#success-message').fadeOut('slow');
+        }, 2000);
+    });
+</script>
+
+@* <div class="container">
+        <ul class="row">
+        <div class="col-lg-3">
+            <ul class="list-group">
+                @foreach (var category in categories)
+                {
+                    <li class="list-group-item">
+                        <a href="/Product/Index?categoryId=@category.Id">@category.Name</a>
+                    </li>
+                }
+            </ul>
+        </ul>
+
+    @foreach (var element in Model)
+    {
+        <div class="col-lg-3 col-lg-3" style="display: inline-block; max-width: 350px; height: 350px">
+            <div class="card">
+                <img src="~/img/@(element.Name).jpg" style="height: 50%; width: 50%; align-self: center; padding-top: 10px">
+
+                <div class="card-body">
+                    <h5 class="card-title text-center">
+                        Product
+                        @{ var num = Model.IndexOf(element) + 1;}
+                        @num
+                    </h5>
+                    <h5 class="card-title">@element.Name</h5>
+                    <p class="card-text">@element.Description.</p>
+                    <p class="card-text">Category: @element.ProductCategory.Department</p>
+                    <p class="card-text">Supplier: @element.Supplier.Name</p>
+                    <p class="card-text text-center"><strong>Price: @element.DefaultPrice.ToString("C2")</strong></p>
+                    <a href="" type="button" class="btn btn-primary" style="float: bottom">Add To Cart</a>
+                </div>
+            </div>
+        </div>
+        
+    }
+
+</div> *@
+
+
+
+
+<div class="container">
+    <div class="row">
+        <!-- Kolumna kategorii po lewej stronie -->
+        <div class="col-lg-3">
+            <p>CATEGORY:</p>
+            <ul class="list-group">
+
+                @foreach (var category in categories)
+                {
+                    <li class="list-group-item">
+                        <a href="/Product/Index?categoryId=@category.Id">@category.Name</a>
+                    </li>
+                }
+            </ul>
+        </div>
+
+        <!-- Kolumna produktów po prawej stronie -->
+        <div class="col-lg-9">
+            <div class="row">
+                @foreach (var element in Model)
+                {
+                    <div class="col-lg-4" style="display: inline-block; max-width: 350px; height: auto">
+                        <div class="card">
+                            <img src="~/img/@(element.Name).jpg" style="height: 50%; width: 50%; align-self: center; padding-top: 10px">
+
+                            <div class="card-body">
+                                <h5 class="card-title text-center">
+                                    Product @{
+                                        var num = Model.IndexOf(element) + 1;
+                                    } @num
+                                </h5>
+                                <h5 class="card-title">@element.Name</h5>
+                                <p class="card-text">@element.Description.</p>
+                                <p class="card-text">Category: @element.ProductCategory.Department</p>
+                                <p class="card-text">Supplier: <a href="/Product/ProductsBySupplier?supplierId=@element.Supplier.Id"> @element.Supplier.Name</a></p>
+                                <p class="card-text text-center"><strong>Price: @element.DefaultPrice.ToString("C2")</strong></p>
+                                <a href="/Product/AddToCart?productId=@element.Id" type="button" class="btn btn-primary" style="float: bottom">Add To Cart</a>
+
+
+                            </div>
+                        </div>
+                    </div>
+                }
+            </div>
+        </div>
+    </div>
+</div>
+
+
+                                

@@ -1,0 +1,85 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+
+@model Codecool.CodecoolShop.Models.CheckoutFormModel
+
+<h2>Checkout</h2>
+
+<form asp-action="ProcessCheckout">
+    <div class="form-group">
+        <label for="Name">Full Name</label>
+        <input type="text" class="form-control" id="Name" asp-for="Name" required />
+        <span asp-validation-for="Name" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label for="Email">Email</label>
+        <input type="email" class="form-control" id="Email" asp-for="EmailAddress" required />
+        <span asp-validation-for="EmailAddress" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label for="PhoneNumber">Phone Number</label>
+        <input type="text" class="form-control" id="PhoneNumber" asp-for="Phone" required />
+        <span asp-validation-for="Phone" class="text-danger"></span>
+    </div>
+
+    <!-- Billing Address -->
+    <h3>Billing Address</h3>
+    <div class="form-group">
+        <label for="BillingAddress_Country">Country</label>
+        <input type="text" class="form-control" id="BillingAddress_Country" asp-for="BillingAddress.Country" required />
+        <span asp-validation-for="BillingAddress.Country" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label for="BillingAddress_City">City</label>
+        <input type="text" class="form-control" id="BillingAddress_City" asp-for="BillingAddress.City" required />
+        <span asp-validation-for="BillingAddress.City" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label for="BillingAddress_ZipCode">Zip Code</label>
+        <input type="text" class="form-control" id="BillingAddress_ZipCode" asp-for="BillingAddress.ZipCode" required />
+        <span asp-validation-for="BillingAddress.ZipCode" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label for="BillingAddress_Address">Address</label>
+        <input type="text" class="form-control" id="BillingAddress_Address" asp-for="BillingAddress.Address" required />
+        <span asp-validation-for="BillingAddress.Address" class="text-danger"></span>
+    </div>
+
+    <!-- Shipping Address -->
+    <h3>Shipping Address</h3>
+    <div class="form-group">
+        <label for="ShippingAddress_Country">Country</label>
+        <input type="text" class="form-control" id="ShippingAddress_Country" asp-for="ShippingAddress.Country" required />
+        <span asp-validation-for="ShippingAddress.Country" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label for="ShippingAddress_City">City</label>
+        <input type="text" class="form-control" id="ShippingAddress_City" asp-for="ShippingAddress.City" required />
+        <span asp-validation-for="ShippingAddress.City" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label for="ShippingAddress_ZipCode">Zip Code</label>
+        <input type="text" class="form-control" id="ShippingAddress_ZipCode" asp-for="ShippingAddress.ZipCode" required />
+        <span asp-validation-for="ShippingAddress.ZipCode" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label for="ShippingAddress_Address">Address</label>
+        <input type="text" class="form-control" id="ShippingAddress_Address" asp-for="ShippingAddress.Address" required />
+        <span asp-validation-for="ShippingAddress.Address" class="text-danger"></span>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Go to Payment</button>
+</form>
+
+@section Scripts{
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
