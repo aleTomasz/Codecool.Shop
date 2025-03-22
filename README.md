@@ -50,4 +50,4 @@ The app uses session storage to manage the cart and follows a modular architectu
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/your-username/CodecoolShop.git
+   git clone https://github.com/aleTomasz/CodecoolShop.git
